@@ -2,12 +2,20 @@
 
 * [Introduction](README.md)
 
-## guides
+## Guides
 
-* [Page 2](guides/page-2.md)
+* [Setup](guides/page-2.md)
 
-## functions
+## Functions
 
-* [All functions](functions/all-functions/README.md)
-  * [Custom](functions/all-functions/custom/README.md)
-    * [Page 1](functions/all-functions/custom/page-1.md)
+* [Custom](functions/custom/README.md)
+  * [$attachmentHeight](functions/custom/usdattachmentheight.md)
+  * [$attachmentWidth](functions/custom/usdattachmentwidth.md)
+  * [$clientAvatar](functions/custom/usdclientavatar.md)
+  * [$clientName](functions/custom/usdclientname.md)
+  * [$clientTag](functions/custom/usdclienttag.md)
+  * [$djsVersion](functions/custom/usddjsversion.md)
+  * [$getJsonReq](functions/custom/usdgetjsonreq.md)
+  * [$getPrefixVar](functions/custom/usdgetprefixvar.md)
+  * [$highestRoleColor](functions/custom/usdhighestrolecolor.md)
+  * [$ignore](functions/custom/usdignore.md)
