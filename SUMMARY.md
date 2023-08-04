@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Work in progress](work-in-progress.md)
 
 ## Guides
 
