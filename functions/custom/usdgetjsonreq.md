@@ -20,7 +20,7 @@ client.command({
   code: `
   $getJsonReq[factJson;fact]
   
-  $letJsonReq[https://oxiapi.0xtag4.repl.co/json/fact;factJson]
+  $letJsonReq[https://api.popcat.xyz/fact;factJson]
   ` // Will return just 'fact' property
 })
 ```
@@ -33,7 +33,7 @@ client.command({
   code: `
   $getJsonReq[factJson]
   
-  $letJsonReq[https://oxiapi.0xtag4.repl.co/json/fact;factJson]
+  $letJsonReq[https://api.popcat.xyz/fact;factJson]
   ` // Will return the entire JSON
 })
 ```
