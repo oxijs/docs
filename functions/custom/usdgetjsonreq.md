@@ -4,6 +4,8 @@ description: Will retrieve the JSON previously set with $letJsonReq (if set)
 
 # $getJsonReq
 
+> It works similarly to $let and $get, but it's not the same. Don't confuse them!
+
 ## Usage
 
 ```php
