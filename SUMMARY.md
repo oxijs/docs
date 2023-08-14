@@ -2,10 +2,11 @@
 
 * [Introduction](README.md)
 * [Work in progress](work-in-progress.md)
+* [Changelog for v1.5.0](changelog-for-v1.5.0.md)
 
 ## Guides
 
-* [Setup](guides/page-2.md)
+* [Setup](guides/setup.md)
 
 ## Functions
 
@@ -17,6 +18,7 @@
   * [$clientTag](functions/custom/usdclienttag.md)
   * [$djsVersion](functions/custom/usddjsversion.md)
   * [$getJsonReq](functions/custom/usdgetjsonreq.md)
+  * [$getGuildAutomodNames](functions/custom/usdgetguildautomodnames.md)
   * [$getPrefixVar](functions/custom/usdgetprefixvar.md)
   * [$highestRoleColor](functions/custom/usdhighestrolecolor.md)
   * [$ignore](functions/custom/usdignore.md)
