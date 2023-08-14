@@ -7,7 +7,7 @@ description: Setup page to start coding your bot
 ## Installation
 
 ```bash
-npm i oxi.js
+npm install oxi.js@latest
 ```
 
 ## Example
