@@ -11,9 +11,9 @@
 ## Functions
 
 * [Custom](functions/custom/README.md)
-  * [$attachmentHeight](functions/custom/usdattachmentheight.md)
-  * [$attachmentWidth](functions/custom/usdattachmentwidth.md)
-  * [$clientAvatar](functions/custom/usdclientavatar.md)
+  * [$attachmentHeight](functions/custom/attachmentheight.md)
+  * [$attachmentWidth](functions/custom/attachmentwidth.md)
+  * [$clientAvatar](functions/custom/clientavatar.md)
   * [$clientName](functions/custom/usdclientname.md)
   * [$clientTag](functions/custom/usdclienttag.md)
   * [$djsVersion](functions/custom/usddjsversion.md)
