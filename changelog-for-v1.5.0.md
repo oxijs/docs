@@ -1,4 +1,4 @@
-5.0# Changelog for v1.5.0
+# Changelog for v1.5.0
 
 > Automod is slowly being implemented, starting with a new function:
 
