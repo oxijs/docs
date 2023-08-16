@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Work in progress](work-in-progress.md)
-* [Changelog for v1.5.0](changelog-for-v1.5.0.md)
+* [Work in progress](wip.md)
+* [Changelog for v1.5.0](changelog.md)
 
 ## Guides
 
@@ -11,9 +11,9 @@
 ## Functions
 
 * [Custom](functions/custom/README.md)
-  * [$attachmentHeight](functions/custom/attachmentheight.md)
-  * [$attachmentWidth](functions/custom/attachmentwidth.md)
-  * [$clientAvatar](functions/custom/clientavatar.md)
+  * [$attachmentHeight](functions/custom/usdattachmentheight.md)
+  * [$attachmentWidth](functions/custom/usdattachmentwidth.md)
+  * [$clientAvatar](functions/custom/usdclientavatar.md)
   * [$clientName](functions/custom/usdclientname.md)
   * [$clientTag](functions/custom/usdclienttag.md)
   * [$djsVersion](functions/custom/usddjsversion.md)
