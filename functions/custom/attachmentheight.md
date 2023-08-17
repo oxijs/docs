@@ -18,7 +18,7 @@ client.command({
   code: `
   Your attachment's height is: $attachmentHeight.
   `
-})
+});
 ```
 
 #### Note: You'll need to obviously attach something, function currently only supports images.
