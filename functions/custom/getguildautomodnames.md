@@ -13,10 +13,10 @@ $getGuildAutomodNames[guildID?]
 ## Example
 
 ```javascript
-bot.command({
+client.command({
     name: 'getGuildAutomodNames',
     code: `
-  $getGuildAutomodNames[$guildID]
-  `
+    $getGuildAutomodNames[$guildID]
+    `
 });
 ```
