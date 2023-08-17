@@ -1,18 +1,18 @@
 ---
-description: Will retrieve the JSON previously set with $letJsonReq (if set)
+description: Makes a JSON request and sets the data for $getJsonReq
 ---
 
-# $getJsonReq
+# $letJsonReq
 
-> It works similarly to $get, but it's not the same. Don't confuse them!
+> It works similarly to $let, but it's not the same. Don't confuse them!
 
 ## Usage
 
 ```php
-$getJsonReq[varName;property?]
+$letJsonReq[URL;varName]
 ```
 
-## Example
+## Example (using $getJsonReq)
 
 #### Using properties
 

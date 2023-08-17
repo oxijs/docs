@@ -14,9 +14,9 @@ $getGuildAutomodNames[guildID?]
 
 ```javascript
 client.command({
-    name: 'getGuildAutomodNames',
-    code: `
-    $getGuildAutomodNames[$guildID]
-    `
+  name: 'getGuildAutomodNames',
+  code: `
+  $getGuildAutomodNames[$guildID]
+  `
 });
 ```

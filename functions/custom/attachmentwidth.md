@@ -18,7 +18,7 @@ client.command({
   code: `
   Your attachment's width is: $attachmentWidth.
   `
-})
+});
 ```
 
 #### Note: You'll need to obviously attach something, function currently only supports images.

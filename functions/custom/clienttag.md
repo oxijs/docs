@@ -18,5 +18,5 @@ client.command({
   code: `
   My userTag is: $clientTag
   ` // Will return your bot's userTag (if any).
-})
+});
 ```

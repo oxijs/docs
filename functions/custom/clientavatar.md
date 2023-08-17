@@ -18,5 +18,5 @@ client.command({
   code: `
   My avatar is: $clientavatar
   ` // Will return your bot's avatar URL.
-})
+});
 ```

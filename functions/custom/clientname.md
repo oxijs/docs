@@ -18,5 +18,5 @@ client.command({
   code: `
   My name is: $clientName
   ` // Will return your bot's name.
-})
+});
 ```

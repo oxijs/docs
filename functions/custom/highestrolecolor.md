@@ -19,6 +19,6 @@ client.command({
   code: `
   Your highest role color is $highestRoleColor
   ` // Will return, for example, '#ff0000' (red) or gray if you don't have any roles
-})
+});
 ```
 {% endcode %}

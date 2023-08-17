@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Work in progress](wip.md)
-* [Changelog for v1.5.0](changelog.md)
+* [Changelog for v2.0.0](changelog.md)
 
 ## Guides
 
@@ -34,4 +34,5 @@
   * [$roundToNearest](functions/custom/roundtonearest.md)
   * [$setPrefixVar](functions/custom/setprefixvar.md)
 * [Condition](functions/condition/README.md)
-  * [$if](functions/condition/if.md)
+  * [$if](functions/condition/if/README.md)
+    * [Alternative $if](functions/condition/if/alt-if.md)
