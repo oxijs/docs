@@ -23,4 +23,4 @@
   * [$highestRoleColor](functions/custom/usdhighestrolecolor.md)
   * [$ignore](functions/custom/usdignore.md)
 * [Misc](functions/misc/README.md)
-  * [$if](functions/misc/if.md)
+  * [$if](functions/misc/usdif.md)
