@@ -26,8 +26,6 @@
   * [$globalName](functions/custom/globalname.md)
   * [$highestRoleColor](functions/custom/highestrolecolor.md)
   * [$ignore](functions/custom/ignore.md)
-  * [$imageHeight](functions/custom/imageheight.md)
-  * [$imageWidth](functions/custom/imagewidth.md)
   * [$invite](functions/custom/invite.md)
   * [$isDM](functions/custom/isdm.md)
   * [$letJsonReq](functions/custom/letjsonreq.md)
