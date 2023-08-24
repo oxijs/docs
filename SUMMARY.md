@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Work in progress](wip.md)
-* [Changelog for v2.0.0](changelog.md)
+* [Changelog for v2.2.0](changelog.md)
 
 ## Guides
 

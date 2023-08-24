@@ -1,23 +1,21 @@
-# Changelog for v2.0.0
+# Changelog for v2.2.0
 
-## Functions
+> Changes that were planned for v2.1.0 have been delayed for the moment.
 
-> - Added `$globalName` and `$invite`
-> - Old errors have been deleted
-> - Added [alternative `$if`](https://oxi.js.org/functions/condition/if/alt-if)
+### Features and improvements
 
-## Fixes and improvements
-
-> - Improved AutoUpdate
-> - Improved logs when client is ready
-> - Unnecesary files have been deleted
-
-## Docs
-
-> - Added [all custom functions](https://oxi.js.org/functions/custom) on docs
-> - Added [Condition](https://oxi.js.org/functions/condition) category
-
-## What's coming in v2.1.0
-
-- All 'server' related functions will be renamed to 'guild' related
-- 'Bot' class is going to be deleted
+> **New functions**: [`$advancedReplaceText`](https://oxi.js.org/functions/custom/advancedreplacetext), [`$getCommandNames`](https://oxi.js.org/functions/custom/getcommandnames), [`$commandExists`](https://oxi.js.org/functions/custom/commandexists)&#x20;
+>
+> Rewrote code for all custom functions.&#x20;
+>
+> `$imageWidth` and `$imageHeight` have been deprecated.&#x20;
+>
+> Improved log messages.&#x20;
+>
+> The code for `$formatDate` was rewritten so that it no longer uses an external API, but rather a modification of the old code.&#x20;
+>
+> New option for `$getGuildAutomodNames`: _separator_
+>
+> ```php
+> $getGuildAutomodNames[guildID?;separator?]
+> ```
