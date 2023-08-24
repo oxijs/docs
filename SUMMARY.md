@@ -11,12 +11,15 @@
 ## Functions
 
 * [Custom](functions/custom/README.md)
+  * [$advancedReplaceText](functions/custom/advancedreplacetext.md)
   * [$attachmentHeight](functions/custom/attachmentheight.md)
   * [$attachmentWidth](functions/custom/attachmentwidth.md)
   * [$clientAvatar](functions/custom/clientavatar.md)
   * [$clientName](functions/custom/clientname.md)
   * [$clientTag](functions/custom/clienttag.md)
+  * [$commandExists](functions/custom/commandexists.md)
   * [$djsVersion](functions/custom/djsversion.md)
+  * [$getCommandNames](functions/custom/getcommandnames.md)
   * [$getGuildAutomodNames](functions/custom/getguildautomodnames.md)
   * [$getJsonReq](functions/custom/getjsonreq.md)
   * [$getPrefixVar](functions/custom/getprefixvar.md)
