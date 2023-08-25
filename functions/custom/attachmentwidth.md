@@ -4,13 +4,13 @@ description: Returns an attachment's width (if any)
 
 # $attachmentWidth
 
-## Usage
+### Usage
 
 ```php
 $attachmentWidth
 ```
 
-## Example
+### Example
 
 ```javascript
 client.command({
