@@ -4,13 +4,13 @@ description: Returns an attachment's height (if any)
 
 # $attachmentHeight
 
-## Usage
+### Usage
 
 ```php
 $attachmentHeight
 ```
 
-## Example
+### Example
 
 ```javascript
 client.command({
