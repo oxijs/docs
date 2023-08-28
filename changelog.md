@@ -1,21 +1,15 @@
-# Changelog for v2.2.0
+# Changelog for v2.3.0
 
-> Changes that were planned for v2.1.0 have been delayed for the moment.
+## Fixes & improvements
 
-### Features and improvements
-
-> **New functions**: [`$advancedReplaceText`](https://oxi.js.org/functions/custom/advancedreplacetext), [`$getCommandNames`](https://oxi.js.org/functions/custom/getcommandnames), [`$commandExists`](https://oxi.js.org/functions/custom/commandexists)&#x20;
+> * **New functions + deprecations**
 >
-> Rewrote code for all custom functions.&#x20;
->
-> `$imageWidth` and `$imageHeight` have been deprecated.&#x20;
->
-> Improved log messages.&#x20;
->
-> The code for `$formatDate` was rewritten so that it no longer uses an external API, but rather a modification of the old code.&#x20;
->
-> New option for `$getGuildAutomodNames`: _separator_
->
-> ```php
-> $getGuildAutomodNames[guildID?;separator?]
+> ```diff
+> + $createAdvancedObject[name;property]
+> + $getAdvancedObject[objName;property?;format?]
+> - $letJsonReq[url;name]
+> - $getJsonReq[name;property?]
 > ```
+>
+> * **Explanation**: `$letJsonReq` & `$getJsonReq` were quite basic functions, so now they have an "expanded" functionality, it's nearly the same thing, but you'll need to use `$jsonRequest[url;property?]` inside `$createAdvancedObject[name;object]` for making json requests.
+> * Fixed AutoUpdate _(yup, again)_

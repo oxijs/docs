@@ -15,7 +15,7 @@ npm install oxi.js@latest
 ```javascript
 const oxi = require("oxi.js");
 
-const client = new oxi.Bot({
+const client = new oxi.Client({
     token: "Your token",
     prefix: "Your prefix",
     intents: ["GUILDS", "GUILD_MESSAGES"]

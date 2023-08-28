@@ -10,21 +10,7 @@ description: Execute a code block with condition.
 $if[condition(s);true field;false field?]
 ```
 
-#### Comparison Operators
-
-* `==` — Equal to
-* `!=` — Not equal to
-* `>` — Greater than
-* `<` — Less than
-* `>=` — Greater than or equal to
-* `<=` — Less than or equal to
-
-#### Logical Operators
-
-* `&&` — Logical and
-* `||` — Logical or
-
-## Example
+### Example
 
 ```javascript
 client.command({
@@ -35,3 +21,5 @@ client.command({
 // Empty means "undefined" (1 == undefined) is not returning true message.
 });
 ```
+
+_(See_ [_Operators_](../operators.md) _to understand how this function works)_

@@ -55,4 +55,4 @@ client.command({
 });
 ```
 
-_(See_ [_Logical Operators_](https://oxi.js.org/functions/condition/if#logical-operators) _for understanding the 2nd example)_
+_(See_ [_Operators_](../operators.md) _to understand how this function works)_
